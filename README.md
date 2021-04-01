@@ -1,4 +1,4 @@
-# peer-project
+# peer-project.github
 <!DOCTYPE html>
 <html lang="en">
 <head>
