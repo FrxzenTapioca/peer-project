@@ -1,11 +1,6 @@
 # peer-project.github
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset = UTF-8>
-</head>
 <body>
-	<h1>Nisha Ummaid</h1>
+	<h1>Isha Ummadi</h1>
 	<h2>Favorite foods</h2>
 	<ol>• Ramen, <br>• Oranges, <br>• Red velvet cake <br>• Chocolate milkshakes</ol>
 	<h2>Achivements</h2>
